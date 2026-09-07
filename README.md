@@ -173,18 +173,21 @@ The final insights are based on the actual results obtained from the dataset and
 ## 📁 Project Structure
 
 ```text
-coffee-shop-sales-data-analysis/
+coffee-shop-sales-analysis/
 │
-├── data/
-│   └── index_1.csv
+├── Cleaned_coffee_data.csv
 │
-├── coffee_analysis.py
-│
-├── visualizations/
-│   ├── popular_coffee.png
-│   └── revenue_by_coffee.png
+├── practice1.py
 │
 └── README.md
+```
+
+### 📄 Files Description
+
+* **`Cleaned_coffee_data.csv`** — Cleaned coffee shop sales dataset used for analysis.
+* **`practice1.py`** — Python script containing data cleaning, analysis, and visualization code.
+* **`README.md`** — Project documentation, methodology, analysis, and key insights.
+
 ```
 
 ---
