@@ -169,18 +169,18 @@ The analysis focuses on finding business-related insights such as:
 The final insights are based on the actual results obtained from the dataset and visualizations.
 
 ---
-
 ## 📁 Project Structure
 
 ```text
 coffee-shop-sales-analysis/
 │
 ├── Cleaned_coffee_data.csv
-│
 ├── practice1.py
-│
+├── most_popular_coffee.png
+├── revenue_by_coffee.png
 └── README.md
 ```
+
 
 ### 📄 Files Description
 
